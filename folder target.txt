@@ -1,0 +1,8 @@
+To jest pierwsze zdanie.
+Tomek ma kota.
+To jest czwarte zdanie.
+To jest drugie zdanie.
+To jest trzecie zdanie zdanie.
+Po trzecim zdaniu będę patrzył.
+Tomek ma kota.
+Arek ma robota.
